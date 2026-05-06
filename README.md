@@ -12,3 +12,6 @@ This project provides a clean framework for testing trading ideas against histor
 * **Language:** Python 3.x
 * **Library:** [Backtrader](https://www.backtrader.com/) (Backtesting engine)
 * **Data Source:** [yfinance](https://github.com/ranaroussi/yfinance) (Yahoo Finance API)
+
+
+TRADE WITH MARKING LONDON AND ASIAN HIGHS AND LOWS 
